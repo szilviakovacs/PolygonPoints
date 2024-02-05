@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UvU+yGZHF8C6ltj4AAyhNww0Tg+Dr0ouOxrailaZakzNbVpn5K/JwOjZA8BI6hQve5d8UbSe++2GOr9M3A1VwA==",
+  "success": true,
+  "projectFilePath": "c:\\work\\polygonpoints\\PolygonPoints\\PolygonPoints.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\szilv\\.nuget\\packages\\sixlabors.imagesharp\\3.1.2\\sixlabors.imagesharp.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

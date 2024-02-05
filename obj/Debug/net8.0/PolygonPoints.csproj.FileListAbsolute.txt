@@ -1,0 +1,17 @@
+C:\work\polygonpoints\PolygonPoints\bin\Debug\net8.0\PolygonPoints.exe
+C:\work\polygonpoints\PolygonPoints\bin\Debug\net8.0\PolygonPoints.deps.json
+C:\work\polygonpoints\PolygonPoints\bin\Debug\net8.0\PolygonPoints.runtimeconfig.json
+C:\work\polygonpoints\PolygonPoints\bin\Debug\net8.0\PolygonPoints.dll
+C:\work\polygonpoints\PolygonPoints\bin\Debug\net8.0\PolygonPoints.pdb
+C:\work\polygonpoints\PolygonPoints\obj\Debug\net8.0\PolygonPoints.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\polygonpoints\PolygonPoints\obj\Debug\net8.0\PolygonPoints.AssemblyInfoInputs.cache
+C:\work\polygonpoints\PolygonPoints\obj\Debug\net8.0\PolygonPoints.AssemblyInfo.cs
+C:\work\polygonpoints\PolygonPoints\obj\Debug\net8.0\PolygonPoints.csproj.CoreCompileInputs.cache
+C:\work\polygonpoints\PolygonPoints\obj\Debug\net8.0\PolygonPoints.dll
+C:\work\polygonpoints\PolygonPoints\obj\Debug\net8.0\refint\PolygonPoints.dll
+C:\work\polygonpoints\PolygonPoints\obj\Debug\net8.0\PolygonPoints.pdb
+C:\work\polygonpoints\PolygonPoints\obj\Debug\net8.0\PolygonPoints.genruntimeconfig.cache
+C:\work\polygonpoints\PolygonPoints\obj\Debug\net8.0\ref\PolygonPoints.dll
+c:\work\polygonpoints\PolygonPoints\bin\Debug\net8.0\SixLabors.ImageSharp.dll
+c:\work\polygonpoints\PolygonPoints\obj\Debug\net8.0\PolygonPoints.csproj.AssemblyReference.cache
+c:\work\polygonpoints\PolygonPoints\obj\Debug\net8.0\PolygonPoints.csproj.CopyComplete
